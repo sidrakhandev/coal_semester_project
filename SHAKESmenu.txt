@@ -1,0 +1,10 @@
+
+     ************************
+     Enter 1:Banana Shake  Rs 150
+     Enter 2:Mango  Shake  Rs 150
+     Enter 3:Apple  Shake  Rs 150
+     Enter 4:Oreo   Shake  Rs 200
+     Enter 5:Panga  Shake  Rs 150
+     Enter 6:Exit 
+     ************************
+     Enter choice:

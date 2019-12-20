@@ -1,0 +1,10 @@
+
+     ************************
+     Enter 1:CocaCola    Rs 50
+     Enter 2:Pepsi       Rs 50
+     Enter 3:7up         Rs 50
+     Enter 4:Sprite      Rs 50
+     Enter 5:Marinda      Rs 50
+     Enter 6:Exit 
+     ************************
+     Enter choice:

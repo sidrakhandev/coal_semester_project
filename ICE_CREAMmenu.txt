@@ -1,0 +1,9 @@
+
+     ************************
+     Enter 1:Vanilla    Rs 100
+     Enter 2:Chocolate  Rs 100
+     Enter 3:HazelNut   Rs 150
+     Enter 4:Kulfa      Rs 100
+     Enter 5:Exit      
+     ************************
+     Enter choice:

@@ -1,0 +1,7 @@
+    
+     ************************
+     Enter 1:ICE CREAM:
+     Enter 2:SHAKE:
+     Enter 3:SOFT DRINKS:
+     ************************
+     Enter choice:
